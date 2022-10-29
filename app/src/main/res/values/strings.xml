@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">QuizApp</string>
+    <string name="total_questions">Total Questions</string>
+    <string name="ans_a">Ans A</string>
+    <string name="ans_b">Ans b</string>
+    <string name="ans_d">Ans d</string>
+    <string name="submit">Submit</string>
+    <string name="ans_c">Ans c</string>
+    <string name="this_is_will_be_question">this is will be question</string>
+</resources>
